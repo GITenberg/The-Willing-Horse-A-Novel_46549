@@ -1,0 +1,32 @@
+_repo: The-Willing-Horse-A-Novel_46549
+covers:
+- cover_type: archival
+  image_path: 46549/46549-rst/images/img-cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Hay, Ian
+    aliases:
+    - Beith, Ian Hay
+    - Beith, John Hay
+    birthdate: 1876
+    deathdate: 1952
+    gutenberg_agent_id: '4304'
+    url: http://www.gutenberg.org/2009/agents/4304
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2014-08-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46549'
+  lccn: '21018479'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'World War, 1914-1918 -- Fiction'
+title: 'The Willing Horse: A Novel'
+url: http://www.gutenberg.org/ebooks/46549
